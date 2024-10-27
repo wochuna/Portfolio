@@ -1,0 +1,31 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+.container h5 {
+  color: darkred;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.container h1 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+.container h3 {
+  color: navajowhite;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.container h4 {
+  color: lightblue;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.container p{
+    color:pink ;
+    font-size: 50px;
+}
+
