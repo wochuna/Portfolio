@@ -1,0 +1,28 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+.container h1{
+    color: #5f151e ;
+}
+p{
+    color: violet;
+}
+.social-icon {
+    color: darkgoldenrod;
+    transition: color 0.3s ease;
+}
+.social-icon:hover {
+    color: pink;
+}
+.icon-instagram {
+    color: #E1306C;
+}
+.icon-linkedin {
+    color: dodgerblue;
+}
+.icon-github {
+    color: black;
+}
